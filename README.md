@@ -32,5 +32,3 @@
    </div>
    
 </div>
-  
-![ Animação de cobra ](https://github.com/Gui11452/Gui11452/blob/output/github-contribution-grid-snake.svg)
