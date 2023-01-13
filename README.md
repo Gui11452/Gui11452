@@ -19,31 +19,17 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="left" height="250" alt="coding-time" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
+    <h2 align="center"> Front-End </h2>
+    <img align="center" height="40" width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212215945-abbec634-aa00-4d1e-b4f1-4f7d26a0ee95.png">
+    <img align="center" height="40" width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216059-73af6b91-f797-4d1c-9f6a-f51f57d7b10c.png">
+    <img align="center" height="40"  width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216166-80b4ea6f-64b7-4421-ad52-fe5fc64a1185.png">
+    <h2 align="center"> Back-End </h2>
+    <img align="center" height="40" width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212215945-abbec634-aa00-4d1e-b4f1-4f7d26a0ee95.png">
+    <img align="center" height="40" width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216059-73af6b91-f797-4d1c-9f6a-f51f57d7b10c.png">
+    <img align="center" height="40"  width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216166-80b4ea6f-64b7-4421-ad52-fe5fc64a1185.png">
    </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
+   
 </div>
   
 ![ Animação de cobra ](https://github.com/Gui11452/Gui11452/blob/output/github-contribution-grid-snake.svg)
