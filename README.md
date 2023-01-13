@@ -12,8 +12,8 @@
 -->
 
 <div style="display: flex; flex-flow: row wrap; gap: 20px; justify-content: space-between">
-  <img height="160em" style="margin: 10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gui11452&show_icons=true&theme=radical"/>
-  <img height="160em" style="margin: 10px; text-align: right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gui11452&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="160em" style="margin: 10px" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gui11452&show_icons=true&theme=radical"/>
+  <img height="160em" style="margin: 10px; width="50%"; text-align: right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gui11452&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
