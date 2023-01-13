@@ -26,7 +26,7 @@
     <h2 align="center"> Back-End </h2>
     <img align="center" height="40" width="40" style="margin-right: 30px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212215818-83df71ac-af1d-4bb8-a733-562849a22a9a.png">
     <img align="center" height="40" width="40" style="margin-right: 30px"alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216338-8ac84416-54d2-41f4-8530-bc4a76f3164e.png">
-    <img align="center" height="40" width="40" style="margin-right: 30px"alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216638-ca57ba77-d48c-45ff-995f-618fcdd61016.png">
+    <img align="center" height="40" width="40" style="margin-right: 30px"alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212359246-24fdba4c-4f1e-4fa2-a559-18589b5fbaf9.png">
     <img align="center" height="40" width="40" style="margin-right: 30px"alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216730-a5dda999-e2e0-4efc-9cf8-e3b40188abcb.png">
    </div>
    
