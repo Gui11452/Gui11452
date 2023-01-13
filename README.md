@@ -10,17 +10,17 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 -->
-<div style="display: flex; gap: 20px; flex-flow: row wrap; justify-content: space-between">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gui11452&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gui11452&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div style="display: inline-block">
+  <img height="160em" style="margin: 10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gui11452&show_icons=true&theme=radical"/>
+  <img height="160em" style="margin: 10px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gui11452&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 
 <h1 style="margin: 20px 20px 20px 0;"> Tecnologias que eu utilizo no meu dia a dia 🏅⌨️ </h1>
 
-<div style="display: flex; gap: 20px; justify-content: space-between; flex-flow: row wrap; margin-bottom: 20px">
-    <img width="300px" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
-    <div>
+<div style="display: inline-block; margin-bottom: 20px">
+    <img width="300px" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif" style="margin: 10px 50px 10px 0; float: left;">
+    <div style="float: right;">
         <h2> Front-End </h2>
         <img align="center" height="40" width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212215945-abbec634-aa00-4d1e-b4f1-4f7d26a0ee95.png">
         <img align="center" height="40" width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216059-73af6b91-f797-4d1c-9f6a-f51f57d7b10c.png">
