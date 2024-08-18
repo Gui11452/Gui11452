@@ -22,9 +22,9 @@
     <img align="center" height="40" width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212215945-abbec634-aa00-4d1e-b4f1-4f7d26a0ee95.png">
     <img align="center" height="40" width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216059-73af6b91-f797-4d1c-9f6a-f51f57d7b10c.png">
     <img align="center" height="40"  width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216166-80b4ea6f-64b7-4421-ad52-fe5fc64a1185.png">
-    <img align="center" height="40" width="40" style="margin-right: 5px" src="https://github.com/Gui11452/Gui11452/blob/main/tailwind.png"/>
-    <img align="center" height="40" width="40" style="margin-right: 5px" src="https://github.com/Gui11452/Gui11452/blob/main/react.png"/>
-    <img align="center" height="40" width="40" style="margin-right: 5px" src="https://github.com/Gui11452/Gui11452/blob/main/bootstrap.png"/>
+    <img align="center" width="40" style="margin-right: 5px" src="https://github.com/Gui11452/Gui11452/blob/main/tailwind.png"/>
+    <img align="center" width="40" style="margin-right: 5px" src="https://github.com/Gui11452/Gui11452/blob/main/react.png"/>
+    <img align="center" width="40" style="margin-right: 5px" src="https://github.com/Gui11452/Gui11452/blob/main/bootstrap.png"/>
     <h2 align="center"> Back-End </h2>
     <img align="center" height="40" width="40" style="margin-right: 30px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212215818-83df71ac-af1d-4bb8-a733-562849a22a9a.png">
     <img align="center" height="40" width="40" style="margin-right: 30px"alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216338-8ac84416-54d2-41f4-8530-bc4a76f3164e.png">
