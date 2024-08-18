@@ -1,6 +1,7 @@
 # Olá! Eu sou o Guilherme Gomes 🖐️
 
 [![Site](https://img.shields.io/website?label=GGAPROGRAMER.COM.BR&style=for-the-badge&url=https://www.ggaprogramer.com.br/)](https://www.ggaprogramer.com.br)
+[![Whatsapp]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white))](https://api.whatsapp.com/send?phone=5581992807284)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guiorganization@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ggaprogramer/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-andrade-34aa01180/)
@@ -15,21 +16,8 @@
 </div>
 <br>
 
-<div  align="center" style="margin-bottom: 20px"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
-    <h2 align="center"> Front-End </h2>
-    <img align="center" height="40" width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212215945-abbec634-aa00-4d1e-b4f1-4f7d26a0ee95.png">
-    <img align="center" height="40" width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216059-73af6b91-f797-4d1c-9f6a-f51f57d7b10c.png">
-    <img align="center" height="40"  width="40" style="margin-right: 5px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216166-80b4ea6f-64b7-4421-ad52-fe5fc64a1185.png">
-    <img align="center" width="40" style="margin-right: 5px" src="https://github.com/Gui11452/Gui11452/blob/main/tailwind.png"/>
-    <img align="center" width="40" style="margin-right: 5px" src="https://github.com/Gui11452/Gui11452/blob/main/react.png"/>
-    <img align="center" width="40" style="margin-right: 5px" src="https://github.com/Gui11452/Gui11452/blob/main/bootstrap.png"/>
-    <h2 align="center"> Back-End </h2>
-    <img align="center" height="40" width="40" style="margin-right: 30px" alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212215818-83df71ac-af1d-4bb8-a733-562849a22a9a.png">
-    <img align="center" height="40" width="40" style="margin-right: 30px"alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216338-8ac84416-54d2-41f4-8530-bc4a76f3164e.png">
-    <img align="center" height="40" width="40" style="margin-right: 30px"alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212359246-24fdba4c-4f1e-4fa2-a559-18589b5fbaf9.png">
-    <img align="center" height="40" width="40" style="margin-right: 30px"alt="css-icon" src="https://user-images.githubusercontent.com/101659943/212216730-a5dda999-e2e0-4efc-9cf8-e3b40188abcb.png">
-   </div>
-   
-</div>
+
+# Front End 
+
+
+# Back End 
