@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-<h2 style="font-size: 40px;">
+<h2 style="display: inline-block, font-size: 40px;">
 Next.js
 </h2>
 
